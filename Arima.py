@@ -3,6 +3,7 @@
 Created on Sat Feb 24 22:14:28 2024
 
 @author: karthikeya_sk
+Time Series forecasting using SARIMAX
 """
 
 import numpy as np
